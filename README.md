@@ -1,5 +1,8 @@
 <h1>Personal Portfolio Website</h1>
 <p>
+    Languages Used - HTML, CSS & JS
+    Text Editor - Microsoft VS Code
+  
 This is a fully responsive Portfolio Website for myself. This is created using HTML, CSS and JavaScript (Basic Web Development).
 
 This website can give you a short glimpse about myself which holds-
