@@ -10,6 +10,5 @@ img{
     height: 55%;
     width:55%;
     object-fit: cover;
-    border:.4rem solid #ff6614;
     border-radius: .6rem;
 }
