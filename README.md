@@ -3,7 +3,8 @@
     <b>Languages - HTML | CSS | JavaScript</b>
     <br><b>Text Editor - Microsoft VS Code</b>
     <br>
-<br>This is a fully responsive Portfolio Website for myself. This is created using HTML, CSS and JavaScript (Basic Web Development).
+<br>This is a fully responsive Portfolio Website for myself.
+<br>This is created using HTML, CSS and JavaScript (Basic Web Development).
 
 This website can give you a short glimpse about myself which holds-
 
