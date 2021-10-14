@@ -9,5 +9,5 @@ This website can give you a short glimpse about myself which holds-
 3. My expertise in various fields at SERVICES section.
 4. My experiences in professional works at EXPERIENCE section.
 5. Suggestion form, address & mail-id in CONTACT section.
-6. Lastly, my Social Media handles (Links) at bottom of the NAVIGATION MENU.
+6. Lastly, my Social Media handles (Links) at bottom of the <b>NAVIGATION MENU</b>.
 </p>
